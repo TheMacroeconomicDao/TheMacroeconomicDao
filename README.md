@@ -1,7 +1,10 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themacroeconomicdao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themacroeconomicdao&layout=compact&card_width=1200px&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card_width=1200)](https://git.io/streak-stats)
 
 
  
@@ -30,7 +33,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/>
+  <img src="https://media.giphy.com/media/d8iPm91TeShX4kHG69/giphy-downsized-large.gif" height="180" width="1200"/>
 </div>
 
 
