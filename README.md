@@ -7,8 +7,10 @@
 <div id="badges">
   <h1>
   Follow to future
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE4M2ZkMzliNmQwMTI1MDZmNjhhYTc0YzhhZmE3ZmQ5YWI0MjNlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xCVo1diTHyIoPC/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE4M2ZkMzliNmQwMTI1MDZmNjhhYTc0YzhhZmE3ZmQ5YWI0MjNlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xCVo1diTHyIoPC/giphy.gif" width="60px"/>
 </h1>
+  
+  
   
   <a href="https://medium.com/@themacroeconomicdao">
     <img src="https://img.shields.io/badge/Medium-%20-orange?logo=medium&logoColor=white?style=plastic" alt="Medium Badge"/>
