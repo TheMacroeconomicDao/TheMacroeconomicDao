@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="120" width="900"/>
+  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="120" width="1200"/>
 </div>
 
 
@@ -17,6 +17,6 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://sun9-21.userapi.com/impg/ec6tf2IkCIB2tVKocxuEPZtMUOLlNx79GoUTng/8e7DP4KMq-0.jpg?size=1280x910&quality=95&sign=6062c2bad7042e4e18b5570f02163d6a&type=album" height="500" width="900"/>
+  <img src="https://sun9-21.userapi.com/impg/ec6tf2IkCIB2tVKocxuEPZtMUOLlNx79GoUTng/8e7DP4KMq-0.jpg?size=1280x910&quality=95&sign=6062c2bad7042e4e18b5570f02163d6a&type=album" height="600" width="1200"/>
 </div>
 
