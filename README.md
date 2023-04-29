@@ -1,4 +1,10 @@
-### :hammer_and_wrench: Languages and Tools :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themacroeconomicdao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+
+ 
+### :hammer_and_wrench: Some Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next " width="40" height="40"/>&nbsp;
@@ -27,6 +33,7 @@
 
 <div id="badges" align="center">
   <h1>
+    
     
   Follow to future
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE4M2ZkMzliNmQwMTI1MDZmNjhhYTc0YzhhZmE3ZmQ5YWI0MjNlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xCVo1diTHyIoPC/giphy.gif" width="40px"/>
@@ -62,4 +69,7 @@
     
 The time when roughly half of the planet carries computing devices in their pockets with processing power that exceeds by several orders of magnitude the power of all computing technology from the past century combined, it is difficult not to call it the era of supercomputers. However, since any machine or computer is always only an extension of humans, it would be more accurate to call this time the era of super communication.
 </h2>
+
+
+
 
