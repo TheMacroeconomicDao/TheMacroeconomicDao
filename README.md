@@ -11,6 +11,8 @@
 
  
 ### :hammer_and_wrench: Some Languages and Tools : 
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next " width="40" height="40"/>&nbsp;
@@ -31,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   
 </div>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/d8iPm91TeShX4kHG69/giphy-downsized-large.gif" height="180" width="1200"/>
