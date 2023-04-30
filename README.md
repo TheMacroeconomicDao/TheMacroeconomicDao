@@ -7,13 +7,15 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card_width=1200)](https://git.io/streak-stats)
 
 
- 
 
+ 
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=themacroeconomicdao" width="1200" /></a>
  
 ### :hammer_and_wrench: Some Languages and Tools : 
 
 
 <div>
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
@@ -44,13 +46,11 @@
 <div id="badges" align="center">
   <h1>
     
-    
   Follow to future
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE4M2ZkMzliNmQwMTI1MDZmNjhhYTc0YzhhZmE3ZmQ5YWI0MjNlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xCVo1diTHyIoPC/giphy.gif" width="40px"/>
     <img src="https://media.giphy.com/media/2g8EYDN0VWFMY/giphy.gif" width="40px"/>
     <img src="https://media.giphy.com/media/xTiTnwtxXU2SbrTsmA/giphy.gif" width="40px"/>
-    
-   
+       
 </h1>
   
   
