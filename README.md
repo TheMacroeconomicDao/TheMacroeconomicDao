@@ -9,7 +9,7 @@
 
 
  
-<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=themacroeconomicdao" width="1200" /></a>
+
  
 ### :hammer_and_wrench: Some Languages and Tools : 
 
@@ -80,6 +80,6 @@
 The time when roughly half of the planet carries computing devices in their pockets with processing power that exceeds by several orders of magnitude the power of all computing technology from the past century combined, it is difficult not to call it the era of supercomputers. However, since any machine or computer is always only an extension of humans, it would be more accurate to call this time the era of super communication.
 </h2>
 
-
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=themacroeconomicdao" width="1200" /></a>
 
 
