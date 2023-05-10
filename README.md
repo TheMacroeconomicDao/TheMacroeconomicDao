@@ -37,6 +37,7 @@ The time when roughly half of the planet carries computing devices in their pock
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/cisco.svg" title="Cisco" alt="AWS" width="40" height="40"/>&nbsp;
  
   
 </div>
