@@ -1,5 +1,11 @@
 
  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/>
+ 
+ <h6>
+    
+The time when roughly half of the planet carries computing devices in their pockets with processing power that exceeds by several orders of magnitude the power of all computing technology from the past century combined, it is difficult not to call it the era of supercomputers. However, since any machine or computer is always only an extension of humans, it would be more accurate to call this time the era of super communication.
+ 
+</h6>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themacroeconomicdao&layout=compact&card_width=1200px&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,8 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+ 
   
 </div>
 
@@ -75,10 +80,7 @@
   <img src="https://sun9-21.userapi.com/impg/ec6tf2IkCIB2tVKocxuEPZtMUOLlNx79GoUTng/8e7DP4KMq-0.jpg?size=1280x910&quality=95&sign=6062c2bad7042e4e18b5570f02163d6a&type=album" height="600" width="1200"/>
 </div>
 
-<h2>
-    
-The time when roughly half of the planet carries computing devices in their pockets with processing power that exceeds by several orders of magnitude the power of all computing technology from the past century combined, it is difficult not to call it the era of supercomputers. However, since any machine or computer is always only an extension of humans, it would be more accurate to call this time the era of super communication.
-</h2>
+
 
 
 
